@@ -1,0 +1,70 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+
+body {
+    margin: 0;
+    text-align: center;
+    text-shadow: 0px 0px 2px white;
+    border: 1px solid black;
+    color: #D3D3D3;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: linear-gradient(#D3D3D3, #000000);
+    width: 1920px;
+
+    
+}
+
+img {
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 30px;
+}
+
+#hero   {
+    width: 1920;
+    height: 400px;
+    padding-top: 20px;
+    text-align: center;
+    color: #D3D3D3;
+    text-shadow: 0px 0px 2px white;
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: stretch;
+    background-image: url(https://cdn.shopify.com/s/files/1/0551/8848/8323/files/Website_Banner.jpg?v=1659378091&width=1500);
+}
+
+ #apparel-list {
+    display: flex;
+    justify-content: space-around;
+    align-content: center; 
+    margin: 20px 500px 0 500px;
+    padding: 19px 50px 19px 20px;
+  
+    
+}
+
+.proven-footer {
+    border-bottom: 4px solid #D3D3D3;
+    padding: 5px 0;
+    text-shadow: 0px 0px 1px white;
+    color: #D3D3D3;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#proven-url {
+    background: black;
+    width: 1920;
+    padding: 10px 0 10px 0;
+}
+
+#proven-url:hover {
+    
+}
